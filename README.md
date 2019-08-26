@@ -18,7 +18,7 @@ Desenvolver um módulo de matrícula de alunos, buscando comprovar o funcionamen
     
 ## Testes
 
-Execução de testes unitários
+- Execução de testes unitários
 
     ```
     mvn clean test
